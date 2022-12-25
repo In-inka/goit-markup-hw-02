@@ -1,0 +1,25 @@
+/*колір основного тексту: #434455; */
+/*вторинний колір тексту: #2e2f42; */
+/*білий #FFFFFF */
+/*акцент #E7E9FC */
+/* основний колір фону #4D5AE5 */
+/*вторинний колір фону #404BBF*/
+
+.list {
+  list-style: none;
+}
+
+.site-nav {
+  color: var(--title-text-color);
+}
+.hero {
+  color: var(--primary-white-color);
+  background-color: var(--title-text-color);
+}
+.hero .primary {
+  color: var(--primary-white-color);
+  background-color: var(--primary-bg-color);
+}
+.section .title {
+  color: var(--title-text-color);
+}

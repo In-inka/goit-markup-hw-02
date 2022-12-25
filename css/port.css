@@ -1,0 +1,12 @@
+:root {
+  --primary-text-color: #434455;
+  --title-text-color: #2e2f42;
+  --accent-color: #e7e9fc;
+  --primary-white-color: #ffffff;
+  --primary-bg-color: #4d5ae5;
+  --title-bg-color: #404bbf;
+}
+body {
+  background-color: var(--primary-white-color);
+  color: var(--primary-text-color);
+}
